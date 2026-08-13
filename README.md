@@ -11,6 +11,7 @@
 - 來源：Kaggle - [Heart Disease Cleveland UCI](https://www.kaggle.com/datasets/cherngs/heart-disease-cleveland-uci)
 - 樣本數：297 筆病患紀錄
 - 特徵數：13 個臨床相關特徵 + 1 個目標欄位（`condition`：0 = 無心臟病, 1 = 有心臟病）
+  
 | 欄位 | 說明 |
 |---|---|
 | age | 年齡 |
